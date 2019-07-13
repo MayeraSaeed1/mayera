@@ -165,7 +165,7 @@ public class codenew {
 				        driver.findElement(By.xpath("//*[@id=\"content\"]/form/div/div/input[1]")).click();
 				        
 				        driver.findElement(By.xpath("//*[@id=\"content\"]/form/div/div/input[2]")).click();
-				        
+				        System.out.println("MayeraTest");
 				//driver.close();
 				        
 				        
